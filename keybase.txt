@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kaiserdj
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kaiserdj.github.io
+  * I am kaiserdj (https://keybase.io/kaiserdj) on keybase.
+  * I have a public key ASA4e8HUXORM_9xCpyp_XBjaNxlOh0xqCKREj09cy3KFFAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120387bc1d45ce44cffdc42a72a7f5c18da37194e874c6a08a4448f4f5ccb7285140a",
+      "host": "keybase.io",
+      "kid": "0120387bc1d45ce44cffdc42a72a7f5c18da37194e874c6a08a4448f4f5ccb7285140a",
+      "uid": "a82d6c46420f3429fb98d8aee8c7bf19",
+      "username": "kaiserdj"
+    },
+    "merkle_root": {
+      "ctime": 1573853142,
+      "hash": "37be04e64ea108291f9d28bc98545107ec53257fc648361e228a92b4677deec0b6236b30220a45ebd0aa3114c5ead3e18b565821bf904c90aa7a3ae7c6e9f756",
+      "hash_meta": "698da82cf58a06c1ece81433dbba8a14dd6114fa97b0694e9704a25c3c98d79a",
+      "seqno": 9715641
+    },
+    "service": {
+      "entropy": "Uk2lJKTaTtq9A5Hy4BXPpn/Q",
+      "hostname": "kaiserdj.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1573853166,
+  "expire_in": 504576000,
+  "prev": "7ca922ff9697b75e30cdaf23f6bb116568f030704e929ec736751bb3bec32fea",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOHvB1FzkTP/cQqcqf1wY2jcZTodMagikRI9PXMtyhRQKp3BheWxvYWTESpcCEsQgfKki/5aXt14wza8j9rsRZWjwMHBOkp7HNnUbs77DL+rEICgLbUlcNe4nwIP5Ud+gc5TNifkEsu896CLUrHc3Br4GAgHCo3NpZ8RAHMhpbtsO38ZgPPQ0+BeFbZLJffxqXIJ1x4vQFHzEDn/Q2mP8ECPUFMD/mOhGV16+W/52LXVp4UHaEC78LtvnBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF23hdCwblGqtdfa/J1c69mRzFNDZTFDJKnJf2B3seIgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaiserdj
+
+==================================================================
