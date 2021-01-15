@@ -167,6 +167,14 @@ a {
   float: left;
 }
 
+.weapon.deagle {
+  margin-top: 8px;
+  height: 25px;
+  width: 80px;
+  background: url('../images/deagle.png') no-repeat;
+  background-size: cover;
+  float: left;
+}
 
 .weapon.awp {
   margin-top: 8px;
